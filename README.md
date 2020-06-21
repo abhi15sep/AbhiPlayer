@@ -1,5 +1,5 @@
 # AbhiPlayer
-music player made in electron
+music player made using electron
 
 ![](./screenshots/screenshot.png)
 
